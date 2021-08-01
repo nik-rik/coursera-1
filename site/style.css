@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: helvetica; 
+}
+
+.header {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+#section1div {
+	background-color: darkgreen;
+	margin-top: 10px;
+	color: #fff;
+	height: 300px;
+	overflow: auto;
+	padding: 0px 5px 0px 5px;
+}
+
+#section2div {
+	color: darkgreen;
+	height: 300px;
+	border: 2px solid;
+	border-color: darkgreen;
+	padding: 0px 5px 0px 5px;
+}
+
+h1 {
+	text-align: center;
+	background-color: green;
+	text-transform: uppercase;
+	font-size: 3em;
+	margin: 0;
+	}
+
+h2 {
+	font-style: italic;
+	font-weight: bold;
+}
+	
+a {
+	text-decoration: none;
+	text-align: center;
+	background-color: darkgreen;
+	color: #ffffff;
+	display: block;
+	font-size: 12px;
+	font-style: italic;
+	}
+
+a:hover {
+	font-size: 125%;
+}
