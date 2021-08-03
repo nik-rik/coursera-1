@@ -13,9 +13,9 @@ body {
 }
 
 #section1div {
-	background-color: darkgreen;
+	background-image: url(../assets/desktop.jpg);
 	margin-top: 10px;
-	color: #fff;
+	color: darkgreen;
 	height: 300px;
 	overflow: auto;
 	padding: 0px 5px 0px 5px;
